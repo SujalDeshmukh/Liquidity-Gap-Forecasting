@@ -1,0 +1,5 @@
+{
+  "_comment": "Static, illustrative FX rates: units of the base (reporting) currency per 1 unit of each currency. Replace with the rates your team agrees on. No live feeds (PS guardrail IX.iii).",
+  "base": "EUR",
+  "rates": { "EUR": 1, "USD": 0.92, "GBP": 1.17, "SGD": 0.68, "HKD": 0.118 }
+}

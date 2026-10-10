@@ -1,0 +1,8 @@
+[
+  { "userId": "support.admin", "name": "Support Admin", "password": "ChangeMe!123", "role": "SUPPORT", "location": null },
+  { "userId": "hk.analyst", "name": "Hong Kong Analyst", "password": "ChangeMe!123", "role": "LOCATION_USER", "location": "Hong Kong" },
+  { "userId": "ny.analyst", "name": "New York Analyst", "password": "ChangeMe!123", "role": "LOCATION_USER", "location": "New York" },
+  { "userId": "ldn.analyst", "name": "London Analyst", "password": "ChangeMe!123", "role": "LOCATION_USER", "location": "London" },
+  { "userId": "sg.analyst", "name": "Singapore Analyst", "password": "ChangeMe!123", "role": "LOCATION_USER", "location": "Singapore" },
+  { "userId": "par.analyst", "name": "Paris Analyst", "password": "ChangeMe!123", "role": "LOCATION_USER", "location": "Paris" }
+]
